@@ -4,7 +4,7 @@
 set -e
 
 #chromebrew directories
-OWNER="${OWNER:-skycocker}"
+OWNER="${OWNER:-yao177}"
 REPO="${REPO:-chromebrew}"
 BRANCH="${BRANCH:-master}"
 URL="https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}"
